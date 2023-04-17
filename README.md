@@ -1,2 +1,2 @@
-# TelegramHaberBotu
-2 Farklı siteden haberleri çekip belirtilen kanala gönderen telegram botu
+# Press67NET / İHBAR Hattı
+2 Zonguldak'tan son dakika, asayiş, gündem, spor, kültür sanat haberlerini okuyun
